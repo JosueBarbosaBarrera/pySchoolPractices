@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#
-#       player.py
-#       
-#       Copyright 2013 Recursos Python - www.recursospython.com
-#       
-
 import sys
 
 from PyQt4.QtCore import QMetaObject
