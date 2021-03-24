@@ -1,5 +1,4 @@
 import sys
-
 from PyQt4.QtCore import QMetaObject
 from PyQt4.QtGui import (QApplication, QFileDialog, QLabel, QMainWindow,
                          QPushButton)
